@@ -1,0 +1,6 @@
+- kind: Cars
+  properties:
+  - name: brand
+    direction: asc
+  - name: engine_size
+    direction: desc
